@@ -1,0 +1,20 @@
+{
+  "name": "rfc-gen",
+  "version": "1.0.0",
+  "description": "CLI tool to create a folder structure for React components",
+  "main": "./src/index.js",
+  "type": "module",
+  "bin": {
+    "rfc-gen": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
