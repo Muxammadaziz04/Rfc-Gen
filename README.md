@@ -83,4 +83,4 @@ export default Button;
 
 ## Лицензия
 
-Этот проект распространяется по лицензии ISC. Подробности можно найти в файле [LICENSE](./LICENSE).
+Этот проект распространяется по лицензии ISC. Подробности можно найти в файле [LICENSE](https://github.com/Muxammadaziz04/Rfc-Gen/blob/main/LICENSE).
